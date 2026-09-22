@@ -1,0 +1,9 @@
+President:Ali Ahmed
+President:Sara Khan
+Vice President Male:Hamza Bilal
+Vice President Male:Usman Ghani
+Vice President Female:Ayesha Noor
+Vice President Female:Zainab Bibi
+General Secretary:Bilal Hassan
+General Secretary:Zubair Ali
+
