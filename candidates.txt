@@ -1,9 +1,10 @@
-President:Ali Ahmed
-President:Sara Khan
-Vice President Male:Hamza Bilal
-Vice President Male:Usman Ghani
-Vice President Female:Ayesha Noor
-Vice President Female:Zainab Bibi
-General Secretary:Bilal Hassan
-General Secretary:Zubair Ali
+President:Abdullah Ranjah
+President:Raja Ali
+President:rumal Pervaiz
+Vice President Male:Hamza Shabbir
+Vice President Male:Muhammad Abubakar Hashmi
+Vice President Female:Alina Amir
+Vice President Female:Sadia Imran
+General Secretary:Uswa Fatima
+General Secretary:Uzair Ranjha
 
